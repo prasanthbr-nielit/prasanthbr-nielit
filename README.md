@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasanthbr-nielit
 - 👀 I’m interested in Embedded Systems and VLSI
-- 🌱 I’m currently learning ML & AI along with Embedded Systems 
+- 🌱 I’m currently works on IoT, ML & AI projects along with skilling students on Embedded Systems 
 - 💞️ I’m looking to collaborate on projects in Embedded and VLSI
 - 📫 How to reach me at prasanthbr@ieee.org
 
